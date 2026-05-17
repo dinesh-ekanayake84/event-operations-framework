@@ -1,2 +1,3 @@
 # Event & Logistics Operations Framework
-A structured framework documenting approaches, workflows, and considerations for planning and delivering large-scale events and operations.
+A working portfolio of operational frameworks, logistics workflows, vendor coordination approaches, and campaign case studies — drawn from 12+ years of hands-on experience in event production and supply chain operations.
+
